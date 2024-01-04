@@ -8,4 +8,12 @@ main{
     background-color: #fff;
     padding: 40px; /* Größerer Innenabstand für den Text vom Rand des main-Tags */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: black;
+    font-size: larger;
+}
+
+h1{
+    color: darkcyan;
+    font-weight: bolder;
+    font-style: italic;
 }
